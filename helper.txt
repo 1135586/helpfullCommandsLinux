@@ -1,0 +1,1 @@
+which java - путь до java в PATH
